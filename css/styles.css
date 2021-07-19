@@ -7014,6 +7014,10 @@ textarea.form-control-lg {
   margin-bottom: 3rem !important;
 }
 
+.mb-5Areyou {
+  margin-bottom: 3rem !important;
+}
+
 .mb-auto {
   margin-bottom: auto !important;
 }
@@ -11041,7 +11045,7 @@ footer.footer .social-link:hover {
   padding-top: 8rem;
   padding-bottom: 8rem;
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-masthead.jpg");
-  background-position: center center;
+  background-position: 80% 50%;
   background-repeat: no-repeat;
   background-size: cover;
 }
